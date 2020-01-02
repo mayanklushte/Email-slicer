@@ -16,4 +16,4 @@ while tries <= 10:
         print("your guess is to high..!")
     tries += 1
 
-print("better luck next time..!")
+
